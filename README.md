@@ -15,16 +15,15 @@ I'm a data analyst passionate about turning raw data into clear insights and vis
 
 ---
 
-## 🛠 Tools & Technologies
+### 🛠 Tools I Use  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+</p>
 
-**Languages & Libraries:**  
-`Python (Pandas, NumPy, Seaborn)` • `SQL` • `Excel`
-
-**Visualization & BI Tools:**  
-`Power BI` • `Tableau` • `Matplotlib` • `Excel Charts`
-
-**Other Tools:**  
-`Jupyter Notebook` • `Google Workspace` • `Canva` • `Photoshop`
 
 ---
 
